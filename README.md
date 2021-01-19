@@ -15,3 +15,7 @@ pip install matplotlib
 ```
 python dice.py
 ```
+
+# screenshot 
+
+![alt text](https://cdn.discordapp.com/attachments/782980952774410255/801164762044956722/Screenshot_from_2021-01-20_02-02-34.png)
